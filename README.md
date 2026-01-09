@@ -56,6 +56,33 @@ git clone https://github.com/your-username/Library_Management_System.git
 * Click **File → Open Project**
 * Select `Library_Management_System`
 
+📌 Required Libraries (Important)
+
+After opening the project in NetBeans, you must add the following 2 JAR files to the project libraries:
+
+mysql-connector-java-8.0.11.jar
+→ For MySQL database connectivity
+
+jcalendar-1.4.jar
+→ For Issue Date & Return Date picker
+
+➕ Steps to Add JAR Files in NetBeans
+
+open project Library_Management_System in apache netbeans
+
+Go to Libraries -> click on right click -> Add JAR/Folder -> and then this above 2 files add in this libraries folder
+
+Select:
+
+mysql-connector-java-8.0.11.jar
+
+jcalendar-1.4.jar
+
+Click OK
+
+✅ After this, both JAR files should appear under the Libraries folder of the project.
+
+
 ### 3️⃣ Database Setup
 
 * Create a MySQL database (example: `library_db`)
