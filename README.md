@@ -83,6 +83,16 @@ Click OK
 ✅ After this, both JAR files should appear under the Libraries folder of the project.
 
 
+And also (jcalendar-1.4.jar) this jar files are add in the palette:
+
+1. click on Swing Controls -> right click -> create new category -> and write your category name as your requirement -> ok
+2. And your new category add in your in palette -> click on your category -> right click -> choose palette manager -> choose one more time your created category ->
+3. click Add from JAR -> Choose this (jcalendar-1.4.jar) jar file -> next -> Ctrl+A -> next -> select your category -> Finish -> Close
+4. Your can see your created category add the some field you can like i can upload the image as same you can display in your palette
+5. <img width="202" height="74" alt="image" src="https://github.com/user-attachments/assets/ff27449e-7ceb-4aca-9d09-1b3758e8bff0" />
+
+
+
 ### 3️⃣ Database Setup
 
 * Create a MySQL database (example: `library_db`)
